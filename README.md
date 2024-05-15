@@ -6,6 +6,10 @@ This repository is an implementation of FastAPI, SQLALCHEMY, HTML/CSS Javascript
 | ------------- | ------------- |
 | ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
 
+## To dos:
+  - [ ] Use JWT Authentication to tokenize a session to chatroom.
+  - [ ] Secure routes using access token and refresh token.
+
 # Features
 ## 1.	FastAPI:
 FastAPI is a high-performance web framework for building Application Programming Interface (API) using python programming language. FastAPI basically sits between the front-end and the backend. It may act as a authenticator or a validator of data being passed between front-end and back-end. In this project, I have not implemented JWT Authentication, but I have used hash password generator to generate a unique and undecodable string and stored them in a database. The CRUD operation is performed on a seperate python file to ensure readability and organization of the code. The routes that are implemented in this project are as follows:

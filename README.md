@@ -42,7 +42,23 @@ In this project, I used JQuery and its library Ajax to transfer data between ser
      2. pip install -r requirements.txt
      3. python sql_dir/init_db.py
      4. uvicorn main:app --reload
- 
+
+# Sample:
+## Welcome
+![welcome](https://github.com/dahalsweekar/Chatroom/assets/99968233/25b6c0d3-5d3d-4144-8644-026570492a17)
+
+## Login page
+![Login](https://github.com/dahalsweekar/Chatroom/assets/99968233/b5bcfb4d-81ba-4375-9f97-944dc7943eec)
+
+## Registration page
+![registration](https://github.com/dahalsweekar/Chatroom/assets/99968233/c340a5f4-60ce-4bb0-8254-201ca542c13f)
+
+## Chatroom
+![chatroom](https://github.com/dahalsweekar/Chatroom/assets/99968233/3aa639c6-517c-46aa-85c1-0b5ea3b4163d)
+| Ramesh  | Sita |
+| ------------- | ------------- |
+| ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
+
 
 
 

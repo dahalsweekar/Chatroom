@@ -6,7 +6,7 @@ This repository is an implementation of FastAPI, SQLALCHEMY, HTML/CSS Javascript
 | ------------- | ------------- |
 | ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
 
-## To dos:
+## To Dos:
   - [ ] Use JWT Authentication to tokenize a session to chatroom.
   - [ ] Secure routes using access token and refresh token.
 

@@ -1,0 +1,32 @@
+body {
+    background-image: url("../../assets/cb2.gif");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.content {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}

@@ -59,7 +59,11 @@ In this project, I used JQuery and its library Ajax to transfer data between ser
 | ------------- | ------------- |
 | ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
 
-
-
+# References:
+1. FastAPI: https://fastapi.tiangolo.com/
+2. Websockets: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+            https://fastapi.tiangolo.com/advanced/websockets/
+3. JQuery/Ajax: https://api.jquery.com/jQuery.ajax/
+4. ChatGPT
 
  

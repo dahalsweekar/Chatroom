@@ -2,6 +2,10 @@
 
 This repository is an implementation of FastAPI, SQLALCHEMY, HTML/CSS Javascript, and WebSocket to create a Login system to authenticate a user into a chatroom. 
 
+| Ramesh  | Sita |
+| ------------- | ------------- |
+| ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
+
 # Features
 ## 1.	FastAPI:
 FastAPI is a high-performance web framework for building Application Programming Interface (API) using python programming language. FastAPI basically sits between the front-end and the backend. It may act as a authenticator or a validator of data being passed between front-end and back-end. In this project, I have not implemented JWT Authentication, but I have used hash password generator to generate a unique and undecodable string and stored them in a database. The CRUD operation is performed on a seperate python file to ensure readability and organization of the code. The routes that are implemented in this project are as follows:
@@ -55,9 +59,6 @@ In this project, I used JQuery and its library Ajax to transfer data between ser
 
 ## Chatroom
 ![chatroom](https://github.com/dahalsweekar/Chatroom/assets/99968233/3aa639c6-517c-46aa-85c1-0b5ea3b4163d)
-| Ramesh  | Sita |
-| ------------- | ------------- |
-| ![chat2](https://github.com/dahalsweekar/Chatroom/assets/99968233/b4473b1a-341e-432b-b977-dd2aceae2fca) | ![chat1](https://github.com/dahalsweekar/Chatroom/assets/99968233/1f14ead2-987d-4eea-8262-50b1807fc641) | 
 
 # References:
 1. FastAPI: https://fastapi.tiangolo.com/
